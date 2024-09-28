@@ -5,7 +5,10 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 
 # Nginx
-nginx
+nginx:latest
 
 # AppSmith.CE
-appsmith/appsmith-ce
+appsmith/appsmith-ce:latest
+
+# PagePlug
+cloudtogouser/pageplug-ce:v1.9.37
