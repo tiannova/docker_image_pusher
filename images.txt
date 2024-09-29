@@ -4,11 +4,14 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-# Nginx
-nginx:latest
+# Nginx - latest 20240928
+# nginx:latest
 
-# AppSmith.CE
-appsmith/appsmith-ce:latest
+# AppSmith.CE - latest 20240928
+# appsmith/appsmith-ce:latest
 
-# PagePlug
-cloudtogouser/pageplug-ce:v1.9.37
+# PagePlug - v1.9.37
+# cloudtogouser/pageplug-ce:v1.9.37
+
+# PagePlug - latest 20240929
+cloudtogouser/pageplug-ce:latest
