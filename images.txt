@@ -18,8 +18,8 @@
 
 # DB-GPT
 # eosphorosai/dbgpt:latest
-eosphorosai/dbgpt-allinone:latest
-# eosphorosai/dbgpt-openai:latest
+# eosphorosai/dbgpt-allinone:latest -- 不存在
+eosphorosai/dbgpt-openai:latest
 # oceanbase/oceanbase-ce:vector
 # mysql/mysql-server:latest
 # busybox:latest
