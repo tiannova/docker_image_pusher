@@ -16,11 +16,11 @@
 # PagePlug - latest 20240929
 # cloudtogouser/pageplug-ce:latest
 
-#DB-GPT
-eosphorosai/dbgpt:latest
+# DB-GPT
+# eosphorosai/dbgpt:latest
 eosphorosai/dbgpt-allinone
-eosphorosai/dbgpt-openai:latest
-oceanbase/oceanbase-ce:vector
-mysql/mysql-server
-busybox
-jaegertracing/all-in-one:1.58
+# eosphorosai/dbgpt-openai:latest
+# oceanbase/oceanbase-ce:vector
+# mysql/mysql-server
+# busybox
+# jaegertracing/all-in-one:1.58
