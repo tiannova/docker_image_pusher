@@ -18,9 +18,10 @@
 
 # DB-GPT
 # eosphorosai/dbgpt:latest
-# eosphorosai/dbgpt-allinone:latest -- 不存在或需要登录
-# eosphorosai/dbgpt-openai:latest   -- 不存在或需要登录
+-- 不存在或需要登录
+eosphorosai/dbgpt-allinone:latest
+eosphorosai/dbgpt-openai:latest
 # oceanbase/oceanbase-ce:vector
 # mysql/mysql-server:latest
-busybox:latest
-jaegertracing/all-in-one:1.58
+# busybox:latest
+# jaegertracing/all-in-one:1.58
