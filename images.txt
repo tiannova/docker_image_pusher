@@ -18,7 +18,7 @@
 
 # DB-GPT
 # eosphorosai/dbgpt:latest
--- 不存在或需要登录
+# -- 不存在或需要登录
 eosphorosai/dbgpt-allinone:latest
 eosphorosai/dbgpt-openai:latest
 # oceanbase/oceanbase-ce:vector
