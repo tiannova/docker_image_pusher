@@ -4,6 +4,8 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
+mongo:6.0-rc
+
 # Nginx - latest 20240928
 # nginx:latest
 
@@ -19,8 +21,8 @@
 # DB-GPT
 # eosphorosai/dbgpt:latest
 # -- 不存在或需要登录
-eosphorosai/dbgpt-allinone:latest
-eosphorosai/dbgpt-openai:latest
+# eosphorosai/dbgpt-allinone:latest
+# eosphorosai/dbgpt-openai:latest
 # oceanbase/oceanbase-ce:vector
 # mysql/mysql-server:latest
 # busybox:latest
