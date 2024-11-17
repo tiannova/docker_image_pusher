@@ -4,7 +4,9 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-redis:3.2.12
+nocobase/nocobase:main
+
+# redis:3.2.12
 
 # mongo:6.0-rc
 
