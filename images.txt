@@ -7,6 +7,12 @@
 # nocobase/nocobase:main
 
 # redis:3.2.12
+redis:6.2
+
+tooljet/tooljet:ee-lts-latest
+
+postgres:13
+postgrest/postgrest:v12.2.0
 
 # mongo:6.0-rc
 
@@ -15,7 +21,7 @@
 
 # AppSmith.CE - latest 20240928
 # appsmith/appsmith-ce:latest
-appsmith/appsmith-ce:v1.48
+# appsmith/appsmith-ce:v1.48
 
 
 # PagePlug - v1.9.37
